@@ -14,7 +14,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- Xiaomi Settings -->
     <string name="app_title">Xiaomi Settings</string>
     <string name="tile_add">Add tile</string>

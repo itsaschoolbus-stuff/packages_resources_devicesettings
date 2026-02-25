@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2018 The LineageOS Project
+     Copyright (C) 2013-2016 The CyanogenMod Project
+                   2017-2026 The LineageOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -14,7 +15,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <string name="htsr_title">触控响应速度</string>
     <string name="htsr_enable_title">提高触控响应速度</string>
     <string name="htsr_enable_summary">提高触控轮询率以降低延迟</string>
@@ -201,7 +203,6 @@
     <string name="custom_seekbar_default_value">默认值</string>
     <string name="custom_seekbar_default_value_to_set">默认值: <xliff:g id="v">%s</xliff:g>\n长按可设为默认</string>
     <string name="custom_seekbar_default_value_is_set">已设为默认值</string>
-    <string name="app_title">小米设置</string>
     <string name="tile_add">添加快捷方式</string>
     <string name="tile_not_added">快捷方式未添加</string>
     <string name="app_title">额外设置</string>
