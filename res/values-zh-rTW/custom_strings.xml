@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="htsr_title">觸控反應速度</string>
     <string name="htsr_enable_title">提高觸控反應速度</string>
     <string name="htsr_enable_summary">提高觸控輪詢率以降低延遲</string>
